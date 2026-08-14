@@ -5,7 +5,7 @@ Used KPI for sales and profit for current month
 
 User cards to show total sales and profit.
 
-used dax measure to create measures such as prrvious month sales, sales target, profit target, total sales etc.
+used dax measure to create measures such as previous month sales, sales target, profit target, total sales etc.
 
 Created buttons to navigate pages and bookmarks to  toggle (show/hide) the slicer panel.
 
